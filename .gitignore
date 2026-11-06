@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors and operating system
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Run outputs
+workdir/
+*.log
